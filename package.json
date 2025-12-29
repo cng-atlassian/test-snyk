@@ -3,6 +3,6 @@
   "version": "1.0.0.",
   "dependencies": {
     "lodash": "4.7.10",
-    "jquery": "1.9.0"
+    "jquery": "3.5.0"
   }
 }
